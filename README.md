@@ -228,13 +228,13 @@ In software development, **quality isn’t an afterthought—it’s the foundati
 **Key Methods for Quality Assurance**  
 
 **Automated & Manual Testing** – Catch issues before users do.  
-*Case Study: **Google Chrome’s rapid updates** leverage automated testing to prevent crashes across millions of devices.* 🌍  
+*Case Study: **Google Chrome’s rapid updates** leverage automated testing to prevent crashes across millions of devices.* 
 
 **Continuous Integration & Deployment (CI/CD)** – Fix small issues before they snowball.  
-*Case Study: **Netflix uses CI/CD pipelines** to ensure seamless streaming, deploying hundreds of updates daily without downtime.* 🎥  
+*Case Study: **Netflix uses CI/CD pipelines** to ensure seamless streaming, deploying hundreds of updates daily without downtime.* 
 
 **Code Reviews & Pair Programming** – Two eyes (or more) are better than one.  
-*Case Study: **Microsoft’s Azure team rigorously reviews code** to maintain reliability in cloud services powering Fortune 500 companies.* ☁️  
+*Case Study: **Microsoft’s Azure team rigorously reviews code** to maintain reliability in cloud services powering Fortune 500 companies.* 
 
 **User Feedback & Beta Testing** – The best test environment is the real world.  
 *Case Study: **Tesla’s Full Self-Driving (FSD) beta** uses real-time driver data to refine AI-powered automation.*  
